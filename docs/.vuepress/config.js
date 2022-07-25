@@ -42,7 +42,9 @@ module.exports = {
             {
                 text: '前端',
                 children: [
-                    '/frontend/'
+                    '/frontend/',
+                    '/frontend/html',
+                    '/frontend/CSS'
                 ]
             }
         ],
